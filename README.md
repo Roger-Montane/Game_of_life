@@ -8,4 +8,4 @@ To execute it, simply navigate to the directory where the source code is, type `
 
 By pressing `P` on your keyboard, you will pause the execution of the "game", that way you can add groups of cells to the board and then press `P` again to resume the execution. In the case that all cells die, you can also use this pause feature to add new ones to keep the "game" going.
 
-Lastly, pressing `C` on your keyboard will clear all the cells.
+Lastly and while being paused, pressing `C` on your keyboard will clear all the cells.
